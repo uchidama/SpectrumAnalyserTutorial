@@ -15,5 +15,7 @@ https://docs.juce.com/master/tutorial_spectrum_analyser.html
 [![Image from Gyazo](https://i.gyazo.com/a367a523eab417304a10b529dd92e1b2.png)](https://gyazo.com/a367a523eab417304a10b529dd92e1b2)
 
 ```
-If your operating system requires you to request permission to access the microphone (currently iOS, Android and macOS Mojave) then you will need to set the corresponding option under the relevant exporter in the Projucer and resave the project.
+If your operating system requires you to request permission to access the microphone  
+(currently iOS, Android and macOS Mojave) then you will need to set the corresponding option   
+under the relevant exporter in the Projucer and resave the project.
 ```
