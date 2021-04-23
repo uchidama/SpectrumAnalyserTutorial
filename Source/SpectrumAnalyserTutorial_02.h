@@ -69,7 +69,7 @@ public:
     }
 
     //==============================================================================
-    void prepareToPlay (int, double) override {}
+    void prepareToPlay (int, doutimerCallbackble) override {}
     void releaseResources() override          {}
 
     void getNextAudioBlock (const juce::AudioSourceChannelInfo& bufferToFill) override
